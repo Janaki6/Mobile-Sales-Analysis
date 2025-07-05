@@ -1,5 +1,7 @@
 🚀 Sales Analysis Dashboard – Smarter Decisions with Data! 📊
+
 Project: May 2025 #DataDNA Challenge by Onyx Data & ZoomCharts
+
 Role: Data Analyst | Tools: Power BI | DAX | Visual Storytelling
 
 In this project, I developed an interactive Power BI dashboard to analyze mobile phone sales data across multiple countries, cities, customer segments, and product attributes. The goal was to uncover meaningful insights that help businesses make data-driven decisions on product strategy, marketing, and sales operations.
